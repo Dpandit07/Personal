@@ -8,14 +8,14 @@ main:
     url: '#about'
     weight: 10
   - name: About us
-    url: '#about'
+    url: '#gallery'
     weight: 20
   - name: Posts
     url: '#posts'
-    weight: 30
-  - name: Projects
-    url: '#projects'
     weight: 40
+  - name: Projects
+    url: '#Project'
+    weight: 30
   - name: Publications
     url: '#featured'
     weight: 50
