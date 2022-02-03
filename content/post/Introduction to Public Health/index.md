@@ -7,7 +7,7 @@ date: "2022-01-01"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: **Dr. Debasish**'
   focal_point: ""
   placement: 2
   preview_only: false
