@@ -6,11 +6,13 @@ author_notes:
 - 1st Author
 - 2nd Author
 - 3rd Author
+- 3rd Author
 authors:
 - Dr. Debasish Pandit
 - Dr. Durga Madhab Satapathy
 - Dr. Nivedita Karmee
 - Dr. Sangeeta Das
+- Dr. Jugal Kishor Bhoi
 date: "2021-12-29"
 doi: ""
 featured: false
@@ -30,7 +32,7 @@ publishDate: "2021-12-29"
 tags:
 - Source Themes
 title: A Trend Analysis of Animal Bite Cases Attending a Tertiary Care Hospital Odisha, during COVID Lockdown
-url_code: https://www.ijph.in/temp/IndianJPublicHealth654384-2931961_080839.pdf
+#url_code: https://www.ijph.in/temp/IndianJPublicHealth654384-2931961_080839.pdf
 url_dataset: ""
 url_pdf: https://www.ijph.in/temp/IndianJPublicHealth654384-2931961_080839.pdf
 url_poster: ""

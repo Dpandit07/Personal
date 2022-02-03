@@ -35,7 +35,7 @@ tags:
 - Source Themes
 title: "Effect of Feeding Practices on Nutritional Status of Infant
 and Young Children Residing in Urban Slums of Berhampur: A Decision Tree Approach"
-url_code: https://www.ijph.in/temp/IndianJPublicHealth652147-3620447_100324.pdf
+#url_code: https://www.ijph.in/temp/IndianJPublicHealth652147-3620447_100324.pdf
 url_dataset: ""
 url_pdf: https://www.ijph.in/temp/IndianJPublicHealth652147-3620447_100324.pdf
 url_poster: ""
