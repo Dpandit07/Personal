@@ -1,11 +1,9 @@
 ---
 authors:
-- admin
-- 吳恩達
+- Dr. Debasish Pandit
 categories:
-- Demo
-- 教程
-date: "2020-12-13T00:00:00Z"
+- Introduction
+date: "2022-01-01"
 draft: false
 featured: false
 image:
@@ -13,79 +11,49 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-01-01"
 projects: []
 subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar with
-  everything in no time."
+  public health and its importance."
 summary: "Welcome \U0001F44B We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar with
   everything in no time."
 tags:
 - Academic
-- 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Evolution of Public Health
 ---
 
-## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+### 18th Century: 
 
-## Get Started
+**1760-1840:** In the 18th century, with the beginning of industrial revolution there was  booming of opportunities and development. People migrated to cities from rural areas resulted in overcrowding. In addition to that, poor workers were often housed in cramped, grossly inadequate quarters. Working conditions were difficult and exposed employees to many risks and dangers, including cramped work areas with poor ventilation, trauma from machinery, toxic exposures to heavy metals, dust, and solvents. All those problems grabbed the attention of people and Government on the urgent need to improve health conditions for the population. That led the foundation of public health and government seriously started to think about public health. 
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+### 19th Century: 
 
-## Crowd-funded open-source software
+**1846:** It was the third Cholera pandemic which was originated in India in the 19th century (1846-1860) that reached far beyond the border. More than one million people died of cholera. The epidemic in London claimed over 10,000 lives, and there were 23,000 deaths for all of Great Britain. This pandemic was considered to have the highest fatalities of the 19th-century epidemics. A British physician **John Snow**, who was working in a poor area of London, identified contaminated water as the means of transmission of the disease.  He had mapped the cases of cholera in the **Soho area in London** and found out the mode of transmission of disease. He introduced the methods of investigations for public health field, hence, is considered as  ***"Father of Modern Epidemiology"*** & cholera is often considered as ***Father of Public Health***. 
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+**1848:** With the finding of the role of polluted water in transmission of cholera, filth and garbage were recognised as man’s greatest enemies and it lead to great sanitary awakening bringing **Public Health Act** of **1848** in England, in acceptance of the principle that the state is responsible for the health of the people. It was one of the great milestones in public health history,*“the beginning of a commitment to proactive, rather than a reactive, public health”*. For the first time, the state became the guarantor of standards of health and environmental quality and provided resources to local units of government to make the necessary changes to achieve those standards.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+**1856:** In 1856, **William Buddd** another pioneer by careful observations of outbreak of **Typhoid Fever** concluded that the spread was by drinking water. In addition to suggesting that typhoid fever was water-borne, Budd also argued that the mode of transmission was feco-oral. He suggested that poor hygiene and unsanitary living conditions contributed to its spread and recommended improved sanitary measures to slow and prevent transmission, including the sanitization of patients’ clothes, the use of disinfectants such as carbolic acid, and the boiling of water. Finding the role of contaminated water in transmission of Cholera and Typhoid, there occurred the demand of clean water among public. 
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+**1875:** A comprehensive piece of legislation was brought into force in England in 1875, known as the **"Public Health Act-1875"** for the control of the men's physical environment. It was a significant step in advancement of public health. The Act also meant that every public health authority had to have a medical officer and a sanitary inspector, to ensure the laws on food, housing, water and hygiene were carried out; and that towns had to have pavements and street lighting.
 
-## Ecosystem
+***The early phase of the public health (1880-1920) is often called the disease control phase. Efforts were directed entirely towards general cleanness, garbage and refuse disposal.  Quarantine conventions was held to control the diseases.***
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+### 20th Century: 
 
-## Inspiration
+**1948:** When diplomats met to form the United Nations in 1945, one of the things they discussed was setting up a global health organization.WHO’s Constitution came into force on 7 April 1948 – a date we now celebrate every year as World Health Day. The first Health Assembly opened in Geneva on 24 June 1948 with delegations from 53 of the 55 Member States. It decided that the Interim Commission was to cease to exist at midnight on 31 August 1948, to be immediately succeeded by WHO.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
 
-## Features
+**1968:** Barefoot doctors  were healthcare providers who underwent basic medical training and worked in rural villages in China. They included farmers, folk healers, rural healthcare providers, and recent middle or secondary school graduates who received minimal basic medical and paramedical education. They promoted basic hygiene, preventive healthcare, and family planning and treated common illnesses. The concept of  barefoot doctors inspired the 1978 World Health Organization conference on primary health care and the resulting Alma Ata Declaration.
 
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+**1978:** Declaration of Alma-Ata was adopted at the International Conference on Primary Health Care (PHC), Almaty (formerly Alma-Ata), Kazakh Soviet Socialist Republic (present day Kazakhstan), 6–12 September 1978. It expressed the need for urgent action by all governments, all health and development workers, and the world community to protect and promote the health of all people. It was the first international declaration underlining the importance of primary health care. The primary health care approach has since then been accepted by member countries of the World Health Organization (WHO) as the key to achieving the goal of "Health For All", but only in developing countries at first.
 
-## Themes
+### 21st Century: 
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+**2000:** The eight Millennium Development Goals (MDGs) – which range from halving extreme poverty rates to halting the spread of HIV/AIDS and providing universal primary education, all by the target date of 2015 – form a blueprint agreed to by all the world’s countries and all the world’s leading development institutions. They have galvanized unprecedented efforts to meet the needs of the world’s poorest.
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+**2015:** The  Sustainable Development Goals (SDGs) were set up in 2015 by the United Nations General Assembly and are intended to be achieved by the year 2030. They are included in a UN Resolution called the 2030 Agenda or what is colloquially known as Agenda 2030. These are a collection of 17 interlinked global goals designed to be a "blueprint to achieve a better and more sustainable future for all". Each goal typically has 8–12 targets, and each target has between 1 and 4 indicators used to measure progress toward reaching the targets. The targets are either "outcome" targets (circumstances to be attained) or "means of implementation" targets
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
