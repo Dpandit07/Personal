@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -8,12 +8,12 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/Dpandit07
 slides: example
-summary: Introduction to research methodology.
+summary: Workshop on Research Methodology.
 tags:
 - Deep Learning
-title: Introduction to Basic Epidemiology
+title: Workshop on Research Methodology
 url_code: ""
 url_pdf: ""
 url_slides: ""
