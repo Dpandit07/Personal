@@ -18,7 +18,7 @@ gallery_item:
   caption: "Dr. Satyajit Sundar Ray"
 - album: race
   image: 2 copy 3.png
-  caption: "Dr. Santanu Padhy"
+  caption: "Dr. Santanu Kumar Padhy"
 - album: race
   image: 2 copy 4.png
   caption: "Dr. Mayadhar Panda"
