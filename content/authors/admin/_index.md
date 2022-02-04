@@ -46,7 +46,7 @@ superuser: true
 
 ---
 
-The Department of Community medicine at Shri Jagannath Medical College is a leading department in research and practice. Members of our faculty are actively involved in planning and conducting of biomedical research and application of statistics in medical research. The missions of this department is to prioritize the community health, with primarily focus on the promotive, preventive aspects of health. 
+The Department of Community medicine at Shri Jagannath Medical College is a leading department in research and practice. Members of our faculty are actively involved in planning and conducting of biomedical research and application of statistics in medical research. The missions of this department is to prioritize the community health, with primary focus on the promotive, preventive aspects of health. Also, this department is conducting various programmatic training, workshops on research methodology and biostatistics for the medical staffs, post-graduate students and faculty from this institution and other institutions.
 
 
 

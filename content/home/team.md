@@ -10,40 +10,40 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 gallery_item:
-- album: team
-  image: 2 copy 2.png
+- album: race
+  image: 1.Kaushik Mishra.jpg
   caption: "Prof. (Dr.) Kaushik Mishra"
-- album: team
-  image: 2 copy 3.png
+- album: race
+  image: 2 copy 2.png
   caption: "Dr. Satyajit Sundar Ray"
-- album: team
-  image: 2 copy 4.png
+- album: race
+  image: 2 copy 3.png
   caption: "Dr. Santanu Padhy"
-- album: team
-  image: 2 copy 5.png
+- album: race
+  image: 2 copy 4.png
   caption: "Dr. Mayadhar Panda"
-- album: team
-  image: 2 copy 6.png
+- album: race
+  image: 2 copy 5.png
   caption: "Dr. Amit Pritam Swain"
-- album: team
-  image: 2 copy 7.png
+- album: race
+  image: 2 copy 6.png
   caption: "Dr. Sabita Maharana"
-- album: team
-  image: 2 copy 8.png
+- album: race
+  image: Abhishek.jpg
   caption: "Dr. Abhishek Panda"
-- album: team
-  image: 2 copy 9.png
+- album: race
+  image: ranjit.jpg
   caption: "Dr. Ranjit Panda"
-- album: team
-  image: 2 copy.png
+- album: race
+  image: 2 copy 7.png
   caption: "Dr. P. Narmada Reddy"
-- album: team
-  image: 2.png
+- album: race
+  image: zpandit.JPG
   caption: "Dr. Debasish Pandit"
 
 ---
+{{< gallery album="race" resize_options="250x250" >}}
 
-{{< gallery album="team" resize_options="250x250" >}} 
 
 
 

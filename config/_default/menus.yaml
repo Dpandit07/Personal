@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Workshops
+  - name: Teaching and Training
     url: '#projects'
     weight: 70
   - name: Contact

@@ -56,3 +56,8 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+The department is planning to conduct series of workshops in research methodology, article writing and on various statistical software such as SPSS / R/QGIS. It includes training of the staff, students and faculty from this institution and other institutions in India.
+
+**Upcoming Workshops:**
+
