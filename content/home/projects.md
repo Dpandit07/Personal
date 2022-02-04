@@ -33,6 +33,14 @@ content:
     tag: SPSS
   - name: Mendeley
     tag: Mendeley
+  - name: Systematic Review
+    tag: SR
+  - name: E-Data Collection
+    tag: KOBO
+  - name: GIS
+    tag: QGIS
+  - name: R
+    tag: R
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
