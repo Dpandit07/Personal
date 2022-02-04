@@ -19,9 +19,9 @@ interests:
 - Workshop on research Methodology
 - Application of Advance Statistics
 organizations:
-- name: Shri Jagannath Medical College & Hospital 
+- name: Shri Jagannath Medical College & Hospital
   url: https://sjmch.odisha.gov.in/
-role:  
+role:
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,8 +30,8 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/Dpandit07
+#   label: Follow me on Twitter
+#   link: https://twitter.com/Dpandit07
 # - icon: graduation-cap
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -42,12 +42,8 @@ social:
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
 superuser: true
-title: Dept. of Community Medicine
+#title: Dept. of Community Medicine
 
-gallery_item:
-- album: team
-  image: pic1.png
-  caption: Write your image 1 caption here
 ---
 
 The Department of Community medicine at Shri Jagannath Medical College is a leading department in research and practice. Members of our faculty are actively involved in planning and conducting of biomedical research and application of statistics in medical research. The missions of this department is to prioritize the community health, with primarily focus on the promotive, preventive aspects of health. 

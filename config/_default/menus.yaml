@@ -12,15 +12,15 @@ main:
     weight: 20
   - name: Posts
     url: '#posts'
-    weight: 40
+    weight: 60
   - name: Projects
     url: '#Project'
     weight: 30
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Courses
-    url: courses/
+  - name: Workshops
+    url: '#projects'
     weight: 70
   - name: Contact
     url: '#contact'
