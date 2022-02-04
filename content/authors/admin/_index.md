@@ -2,7 +2,7 @@
 About: 
 # education:
 #   courses:
-#   - course: CBME 
+#   - course: CBME
 #     institution: Stanford University
 #     year: 2012
 #   - course: MEng in Artificial Intelligence
@@ -43,9 +43,16 @@ social:
 #   link: https://www.linkedin.com/
 superuser: true
 title: Dept. of Community Medicine
+
+gallery_item:
+- album: team
+  image: pic1.png
+  caption: Write your image 1 caption here
 ---
 
 The Department of Community medicine at Shri Jagannath Medical College is a leading department in research and practice. Members of our faculty are actively involved in planning and conducting of biomedical research and application of statistics in medical research. The missions of this department is to prioritize the community health, with primarily focus on the promotive, preventive aspects of health. 
+
+
 
  
 
