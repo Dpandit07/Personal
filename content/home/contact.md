@@ -16,11 +16,11 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
+   Email form provider
   form:
     provider: formspree
     formspree:
-      id: test
+      id: mayvelgy
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
