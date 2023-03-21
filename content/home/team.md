@@ -14,7 +14,7 @@ gallery_item:
   image: 1.Kaushik Mishra.jpg
   caption: "Prof. (Dr.) Kaushik Mishra"
 - album: race
-  image: Sangeeta.jpeg
+  image: 2 copy 3.png
   caption: "Dr. Sangeeta Das"
 - album: race
   image: 2 copy 3.png
@@ -24,19 +24,22 @@ gallery_item:
   caption: "Dr. Mayadhar Panda"
 - album: race
   image: 2 copy 5.png
-  caption: "Dr. Amit Pritam Swain"
+  caption: "Dr. Debjyoti Mohapatra"
 - album: race
   image: 2 copy 6.png
-  caption: "Dr. Sabita Maharana"
+  caption: "Dr. Bimal Kumar Sahu"
 - album: race
   image: Abhishek.jpg
   caption: "Dr. Abhishek Panda"
 - album: race
   image: 2 copy 6.png
-  caption: "Dr. Ranjit Panda"
+  caption: "Dr. Deepak Kumar Sahoo"
 - album: race
   image: 2 copy 7.png
-  caption: "Dr. P. Narmada Reddy"
+  caption: "Dr. Mayadhar Panda"
+- album: race
+  image: 2 copy 7.png
+  caption: "Dr. Ruchit Mohanty"
 - album: race
   image: zpandit.JPG
   caption: "Dr. Debasish Pandit"
