@@ -18,6 +18,7 @@ interests:
 - Public health interventions
 - Workshop on research Methodology
 - Application of Advance Statistics
+- Family Adoption Programme
 organizations:
 - name: Shri Jagannath Medical College & Hospital
   url: https://sjmch.odisha.gov.in/
@@ -46,7 +47,7 @@ superuser: true
 
 ---
 
-The Department of Community medicine at Shri Jagannath Medical College is a leading department in research and practice. Members of our faculty are actively involved in planning and conducting of biomedical research and application of statistics in medical research. The missions of this department is to prioritize the community health, with primary focus on the promotive, preventive aspects of health. Also, this department is conducting various programmatic training, workshops on research methodology and biostatistics for the medical staffs, post-graduate students and faculty from this institution and other institutions.
+The Department of Community Medicine at Shri Jagannath Medical College is a highly regarded department that specializes in both research and practice. Our faculty members are deeply involved in the planning and execution of biomedical research, with a particular emphasis on the application of statistics to medical research. Our department's main mission is to prioritize community health, with a strong focus on promoting and preventing disease. We also offer a variety of programmatic training and workshops on research methodology and biostatistics, which are open to medical staff, post-graduate students, and faculty members from our institution as well as from other institutions.
 
 
 
