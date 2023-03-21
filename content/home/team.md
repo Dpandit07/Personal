@@ -14,8 +14,8 @@ gallery_item:
   image: 1.Kaushik Mishra.jpg
   caption: "Prof. (Dr.) Kaushik Mishra"
 - album: race
-  image: 2 copy 2.png
-  caption: "Dr. Satyajit Sundar Ray"
+  image: Sangeeta.jpeg
+  caption: "Dr. Sangeeta Das"
 - album: race
   image: 2 copy 3.png
   caption: "Dr. Santanu Kumar Padhy"
