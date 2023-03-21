@@ -32,7 +32,7 @@ gallery_item:
   image: Abhishek.jpg
   caption: "Dr. Abhishek Panda"
 - album: race
-  image: ranjit.jpg
+  image: 2 copy 6.png
   caption: "Dr. Ranjit Panda"
 - album: race
   image: 2 copy 7.png
