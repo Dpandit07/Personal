@@ -22,10 +22,10 @@ main:
   - name: Teaching and Training
     url: '#projects'
     weight: 60
- - name: Lectures
+  - name: Lectures
     url: '#projects'
     weight: 70
- - name: Data Center
+  - name: Data Center
     url: '#projects'
     weight: 75
   - name: Contact
