@@ -8,20 +8,34 @@ main:
     url: '#about'
     weight: 10
   - name: About us
-    url: '#team'
+    identifier: About us
     weight: 20
+  - name: The Team
+    parent: About us
+    url: '#team'
+    weight: 23
+  - name: Role & Responsibilities
+    parent: About us
+    url: '#skills'
+    weight: 25
+  - name: Activities
+    identifier: Activities
+    weight: 30
   - name: Posts
     url: '#posts'
     weight: 60
   - name: Projects
+    parent: Activities
     url: '#Project'
-    weight: 30
+    weight: 33
   - name: Publications
+    parent: Activities
     url: '#publications'
-    weight: 50
+    weight: 38
   - name: Teaching and Training
+    parent: Activities
     url: '#projects'
-    weight: 60
+    weight: 39
   - name: Lectures
     url: '#projects'
     weight: 70
@@ -31,4 +45,5 @@ main:
   - name: Contact
     url: '#contact'
     weight: 80
+
 
