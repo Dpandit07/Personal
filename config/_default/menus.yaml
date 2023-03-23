@@ -65,12 +65,12 @@ main:
     
   - name: Faculties
     parent: Data Center
-    url: 'Faculty'
+    url: 'content/home/Faculty'
     weight: 54
     
   - name: Students 
     parent: Data Center
-    url: '/Student/newpost'
+    url:  '/Student/newpost'
     weight: 56
     
   - name: Contact
