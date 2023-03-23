@@ -20,7 +20,7 @@ projects: []
 
 ![](images/image-517537230.png)
 
-***For registration [click here](https://docs.google.com/forms/d/1ju8xDKyUUemCjSPuxcRJ6zXJFJ0fFGMPhO1h__bQ7oM/edit?usp=forms_home&ths=true)***
+***For registration [click here](https://docs.google.com/forms/d/e/1FAIpQLSe2gMpy6jXfjHDGnVmL_Ohsm0qClTq0LQ7R18Q2QwGQQS5M3w/viewform)***
 
 World Health Day is celebrated annually on April 7th, to mark the founding of World Health Organization (WHO) in 1948. It is a day to raise awareness about the importance of health and well-being of people around the world, and to encourage people to take action to improve their own health as well as the health of their communities.
 
@@ -54,4 +54,4 @@ On this occasion, the Department of Community Medicine, SJMCH, Puri in associati
 
 So, register yourself at the earliest to participate in this exciting competition and demonstrate your acumen on the World Health Day's historic significance on the health and well-being of people across the globe.
 
--   For registration [click here](https://docs.google.com/forms/d/1ju8xDKyUUemCjSPuxcRJ6zXJFJ0fFGMPhO1h__bQ7oM/edit?usp=forms_home&ths=true)
+-   For registration [click here](https://docs.google.com/forms/d/e/1FAIpQLSe2gMpy6jXfjHDGnVmL_Ohsm0qClTq0LQ7R18Q2QwGQQS5M3w/viewform)
