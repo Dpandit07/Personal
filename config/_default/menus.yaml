@@ -67,7 +67,7 @@ main:
     
   - name: Faculties
     parent: Data Center
-    url: '#posts'
+    url: '/content/Landing'
     weight: 54
     
   - name: Students 
