@@ -1,6 +1,6 @@
 ---
 authors:
-- Dr. Debasish Pandit (AP)
+- Dr. Debasish Pandit
 categories:
 - Introduction
 date: "2022-01-01"

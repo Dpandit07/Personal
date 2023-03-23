@@ -20,12 +20,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assessment of Childhood Pneumonia Prevalence and Factors Associated with it in Puri District, Odisha 
-    company: Prof. (Dr.) Kaushik Mishra, Dr. Satyajit Sunder Ray, Dr. Amit Pritam Swain
+    company: Prof. (Dr.) Kaushik Mishra & Team
     company_url: ''
     company_logo: org-gc
     location: Puri
     date_start: '2022-02-01'
     date_end: ''
+    
+  - title: Verification of Claims for Sub-National Certification of Progress Towards TB Free Status for the year 2022 for Puri District
+    company: Dr. Sangeeta Das, Dr. Debasish Pandit
+    company_url: ''
+    company_logo: org-gc
+    location: Puri
+    date_start: '2022-12-20'
+    date_end: '2023-03-24'
     # description: |2-
     #     Responsibilities include:
     #     
