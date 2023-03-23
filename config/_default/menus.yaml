@@ -72,7 +72,7 @@ main:
     
   - name: Students 
     parent: Data Center
-    url: '#Student'
+    url: '/Student/newpost'
     weight: 56
     
   - name: Contact

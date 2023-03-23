@@ -22,6 +22,7 @@ summary: "Welcome \U0001F44B We know that first impressions are important, so we
 tags:
 - Academic
 title: Evolution of Public Health
+url: /articles/my-first-article
 ---
 
 
