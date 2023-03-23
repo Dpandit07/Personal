@@ -11,7 +11,6 @@ weight: 60
 
 title: Recent Posts
 subtitle:
-url: /Faculty/webpage
 
 content:
   # Filter on criteria

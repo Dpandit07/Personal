@@ -65,7 +65,7 @@ main:
     
   - name: Faculties
     parent: Data Center
-    url: '/Faculty/webpage'
+    url: 'Faculty'
     weight: 54
     
   - name: Students 
