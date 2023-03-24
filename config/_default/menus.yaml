@@ -60,12 +60,12 @@ main:
     
   - name: College & Departments
     parent: Data Center
-    url: '#posts'
+    url: 'https://debasish-pandit.shinyapps.io/EMS_SJMCH_Git/'
     weight: 52
     
   - name: Faculties
     parent: Data Center
-    url: '/content/Teacher/'
+    url: ''
     weight: 54
     
   - name: Students 
