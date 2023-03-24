@@ -58,8 +58,6 @@ url: /articles/my-first-article
 
 **2015:** The  Sustainable Development Goals (SDGs) were set up in 2015 by the United Nations General Assembly and are intended to be achieved by the year 2030. They are included in a UN Resolution called the 2030 Agenda or what is colloquially known as Agenda 2030. These are a collection of 17 interlinked global goals designed to be a "blueprint to achieve a better and more sustainable future for all". Each goal typically has 8–12 targets, and each target has between 1 and 4 indicators used to measure progress toward reaching the targets. The targets are either "outcome" targets (circumstances to be attained) or "means of implementation" targets
 
-**2016** 
 
-How is this is not formed in India 
 
 
