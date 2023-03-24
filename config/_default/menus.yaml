@@ -65,7 +65,7 @@ main:
     
   - name: Faculties
     parent: Data Center
-    url: 'content/home/Faculty'
+    url: '/content/Teacher/'
     weight: 54
     
   - name: Students 
