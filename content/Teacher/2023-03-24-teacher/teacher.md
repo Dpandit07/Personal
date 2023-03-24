@@ -22,4 +22,4 @@ projects: []
 
 ## 1. Upload for CME/Event/Other Curricular activities
 
-\[click here\](<https://docs.google.com/forms/d/e/1FAIpQLSe2gMpy6jXfjHDGnVmL_Ohsm0qClTq0LQ7R18Q2QwGQQS5M3w/viewform)>
+[click here](<https://docs.google.com/forms/d/e/1FAIpQLSe2gMpy6jXfjHDGnVmL_Ohsm0qClTq0LQ7R18Q2QwGQQS5M3w/viewform)>
