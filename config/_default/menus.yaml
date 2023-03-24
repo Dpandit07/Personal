@@ -70,7 +70,7 @@ main:
     
   - name: Students 
     parent: Data Center
-    url:  '/Student/newpost'
+    url:  '/my-widget/'
     weight: 56
     
   - name: Contact
