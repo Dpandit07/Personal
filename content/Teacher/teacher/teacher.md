@@ -1,5 +1,4 @@
 ---
-url: /Teacher/newpost
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -10,8 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Links for upload of documents 
+subtitle: click the link provided and upload the document
+url: /Teacher/newpost
 
 content:
   # Filter on criteria
@@ -38,7 +38,5 @@ design:
   columns: '2'
 ---
 
-# Links for connection
 
-## 1. Upload for CME/Event/Other Curricular activities
 
