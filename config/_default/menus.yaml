@@ -66,7 +66,7 @@ main:
     
   - name: Faculties
     parent: Data Center
-    url: evnet
+    url: '/Teacher/newpost'
     weight: 54
     
   - name: Students 
