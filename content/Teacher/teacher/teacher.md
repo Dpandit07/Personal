@@ -1,25 +1,44 @@
 ---
-title: Links for uploading documents
 url: /Teacher/newpost
-author: R package build
-date: '2023-03-23'
-slug: teacher-uploading
-categories: []
-tags: []
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '2023-03-23T08:51:30+05:30'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 60
+
+title: Recent Posts
+subtitle:
+
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - post
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
 ---
 
 # Links for connection
 
 ## 1. Upload for CME/Event/Other Curricular activities
 
-[click here](<https://docs.google.com/forms/d/e/1FAIpQLSe2gMpy6jXfjHDGnVmL_Ohsm0qClTq0LQ7R18Q2QwGQQS5M3w/viewform)>
