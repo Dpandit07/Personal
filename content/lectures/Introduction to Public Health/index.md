@@ -7,7 +7,7 @@ date: "2023-03-26"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: **Dr. Debasish**'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
@@ -23,3 +23,6 @@ title: National Rabies Elimination Programme (NREP)
 url: /articles/my-first-article
 url_pdf: https://www.ijph.in/temp/IndianJPublicHealth654384-2931961_080839.pdf
 ---
+
+
+[Download file](/files/National_Rabies_Control_Programme.pdf)
