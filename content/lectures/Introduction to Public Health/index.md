@@ -21,8 +21,10 @@ tags:
 - Academic
 title: National Rabies Elimination Programme (NREP)
 url: /articles/my-first-article
-url_pdf: https://www.ijph.in/temp/IndianJPublicHealth654384-2931961_080839.pdf
+url_pdf: /static/National_Rabies_Control_Programme.pdf
 ---
 
-
 [Download file](/files/National_Rabies_Control_Programme.pdf)
+
+**{{<icon name="download" pack="fes">}} Download {{<staticref "uploads/National_Rabies_Control_Programme.pdf" "newtab">}}slides{{</staticref>}}**
+
