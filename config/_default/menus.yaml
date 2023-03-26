@@ -57,12 +57,12 @@ main:
     
   - name: Blog Posts
     parent: Student Portal
-    url: '#posts'
+    url: '#blog_posts'
     weight: 45
     
   - name: Assessment
     parent: Student Portal
-    url: '#posts'
+    url: '#assessment'
     weight: 46
     
   - name: FAP

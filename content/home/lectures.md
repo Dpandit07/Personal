@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Lectures
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - lectures
     tag: ''
     category: ''
     publication_type: ''
