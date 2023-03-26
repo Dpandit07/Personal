@@ -67,7 +67,7 @@ main:
     
   - name: FAP
     parent: Student Portal
-    url: '#posts'
+    url: '#fap'
     weight: 48
     
   - name: Data Center
