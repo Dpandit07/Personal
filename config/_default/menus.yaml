@@ -41,19 +41,34 @@ main:
     url: '#projects'
     weight: 39
     
-  - name: Lectures
-    identifier: Lectures
+  - name: Student Portal
+    identifier: Student Portal
     weight: 40
     
-  - name: Blog Posts
-    parent: Lectures
-    url: '#posts'
+  - name: Recent 
+    parent: Student Portal
+    url: '#recent'
     weight: 42
     
-  - name: Classes
-    parent: Lectures
+  - name: Lectures
+    parent: Student Portal
+    url: '#lectures'
+    weight: 43
+    
+  - name: Blog Posts
+    parent: Student Portal
     url: '#posts'
     weight: 45
+    
+  - name: Assessment
+    parent: Student Portal
+    url: '#posts'
+    weight: 46
+    
+  - name: FAP
+    parent: Student Portal
+    url: '#posts'
+    weight: 48
     
   - name: Data Center
     identifier: Data Center
