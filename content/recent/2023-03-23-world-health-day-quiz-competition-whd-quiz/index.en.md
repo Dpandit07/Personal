@@ -21,6 +21,8 @@ projects: []
 
 ***For registration [click here](https://docs.google.com/forms/d/e/1FAIpQLSe2gMpy6jXfjHDGnVmL_Ohsm0qClTq0LQ7R18Q2QwGQQS5M3w/viewform)***
 
+***For Sample Question [click here](https://dpandit07.moodlecloud.com/course/view.php?id=7)*** (Username=**sjmch2023**, password=**sjmch@123**)
+
 World Health Day is celebrated annually on April 7th, to mark the founding of World Health Organization (WHO) in 1948. It is a day to raise awareness about the importance of health and well-being of people around the world, and to encourage people to take action to improve their own health as well as the health of their communities.
 
 -   Each year, WHO carves out a theme for World Health Day that highlights a particular area of concern or challenge in global health.
